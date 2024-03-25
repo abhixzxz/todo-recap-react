@@ -40,7 +40,7 @@ function TodoList() {
     <div className="w-full min-h-screen bg-purple-400 flex flex-col items-center justify-center">
       <div className="flex justify-between gap-3">
         <h1 className="font-bold text-3xl text-purple-700 mb-6 p-2 uppercase">
-          Empower Your Productivity with Our React-powered Todo List App!
+          React-powered Todo List App!
         </h1>
       </div>
 
