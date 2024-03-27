@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import toDoImg from "../assets/8810413.jpg";
+import toDoImg from "../../assets/8810413.jpg";
 
 function TodoList() {
   const [newTodo, setNewTodo] = useState("");
